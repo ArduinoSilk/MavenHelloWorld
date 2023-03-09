@@ -1,0 +1,4 @@
+Jenkinsfile
+*.log
+**/*.log
+**/*.tmp
